@@ -17,3 +17,11 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software
 * [DroneBase](https://dronebase.com/) - Online marketplace for Drone services
 
+### Manufacturers ###
+
+* Consumer Drones
+  * [DJI](https://dji.com/) - :cn: - DJI is the world's leader in the consumer drone market
+  * [Yuneec International](http://yuneec.com) - :cn:
+  * [Parrot SA](https://www.parrot.com/) - :fr:
+  * [3D Robotics](http://3drobotics.com/) - :us:
+
