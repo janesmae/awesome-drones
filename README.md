@@ -12,16 +12,23 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Ardupilot](https://github.com/ArduPilot/ardupilot)
 * [LibrePilot](https://github.com/librepilot/LibrePilot)
 
+
 ### Services ###
 
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software
 * [DroneBase](https://dronebase.com/) - Online marketplace for Drone services
+* 
+
 
 ### Manufacturers ###
 
 * Consumer Drones
-  * [DJI](https://dji.com/) - :cn: - DJI is the world's leader in the consumer drone market
-  * [Yuneec International](http://yuneec.com) - :cn:
-  * [Parrot SA](https://www.parrot.com/) - :fr:
-  * [3D Robotics](http://3drobotics.com/) - :us:
+  * [DJI](https://dji.com/) - :cn: - DJI is the world's leader in the consumer drone market - Spark, Mavic, Phantom, Inspire and Matrice series drones
+  * [Yuneec International](http://yuneec.com) - :cn: - Yuneec Typhoon series drones
+  * [Parrot SA](https://www.parrot.com/) - :fr: - Famously Parrot Bebop and Parrot AR series drones
+  * [GoPro](https://gopro.com) - :us: - Karma drone
 
+* Millitary Drones
+  * [Eli](http://www.uav.ee)
+  * [AeroVironment](https://www.avinc.com)
+  * [INSITU](https://insitu.com) 
