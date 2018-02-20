@@ -11,6 +11,12 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Cleanflight](https://github.com/cleanflight/cleanflight)
 * [Ardupilot](https://github.com/ArduPilot/ardupilot)
 * [LibrePilot](https://github.com/librepilot/LibrePilot)
+* [INAV](https://github.com/iNavFlight/inav)
+
+
+### Libraries ###
+
+* [MAVLink](https://github.com/mavlink/mavlink) - Micro Air Vehicle Message Marshalling Library
 
 
 ### Services ###
@@ -32,3 +38,9 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
   * [Eli](http://www.uav.ee)
   * [AeroVironment](https://www.avinc.com)
   * [INSITU](https://insitu.com) 
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Jaan Janesmae](https://jaan.janesmae.com) has waived all copyright and related or neighboring rights to this work.
