@@ -12,19 +12,21 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Ardupilot](https://github.com/ArduPilot/ardupilot)
 * [LibrePilot](https://github.com/librepilot/LibrePilot)
 * [INAV](https://github.com/iNavFlight/inav)
+* [PX4](https://github.com/PX4/Firmware)
 
+### Software ###
+
+* [ArduPilot Mission Planner](http://ardupilot.org/planner/)
 
 ### Libraries ###
 
 * [MAVLink](https://github.com/mavlink/mavlink) - Micro Air Vehicle Message Marshalling Library
-
+* [MAVROS](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with proxy for Ground Control Station
 
 ### Services ###
 
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software
 * [DroneBase](https://dronebase.com/) - Online marketplace for Drone services
-* 
-
 
 ### Manufacturers ###
 
@@ -37,7 +39,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * Millitary Drones
   * [Eli](http://www.uav.ee)
   * [AeroVironment](https://www.avinc.com)
-  * [INSITU](https://insitu.com) 
+  * [INSITU](https://insitu.com)
 
 ## License
 
