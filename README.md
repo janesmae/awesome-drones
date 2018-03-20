@@ -10,6 +10,15 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [ArduPilot Mission Planner](https://github.com/ArduPilot/MissionPlanner)
 * [QGroundControl](http://qgroundcontrol.com/) - Ground Control Station for PX4 and ArduPilot UAVs
 
+### Simulators ###
+
+* [DRL Drone Racing Simulator](https://thedroneracingleague.com/simulator/)
+* [AirSim](https://github.com/Microsoft/AirSim) - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research
+* [FPV Freerider](https://fpv-freerider.itch.io/fpv-freerider) :dollar:
+* [FPV Freerider Recharged](https://fpv-freerider.itch.io/fpv-freerider-recharged) :dollar:
+* [LiftOff](https://www.immersionrc.com/fpv-products/liftoff-drone-race-simulator/) :dollar:
+* [VelociDrone](https://www.velocidrone.com/) :dollar:
+
 ### Firmware ###
 
 * [Betaflight](https://github.com/betaflight/betaflight)
@@ -31,6 +40,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software
 * [DroneBase](https://dronebase.com/) - Online marketplace for Drone services
+* [AirMap](https://www.airmap.com/) - Aeronautical data & services to unmanned aircraft
 
 ## Hardware and Products ##
 
