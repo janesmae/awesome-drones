@@ -36,6 +36,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [MAVROS](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with proxy for Ground Control Station.
 * [DJI Onboard SDK](https://github.com/dji-sdk/Onboard-SDK) - The Onboard SDK allows you to connect to a supported DJI flight controller using a serial port (TTL UART).
 * [GoBot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT).
+* [LibUAVCAN](https://github.com/UAVCAN/libuavcan) - Portable reference implementation of the UAVCAN protocol stack in C++ for embedded systems and Linux.
 
 ## Services ###
 
