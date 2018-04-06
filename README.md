@@ -60,6 +60,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Eli](http://www.uav.ee) - ELIX-XL - a small, man-portable, ruggedized quadcopter.
 * [AeroVironment](https://www.avinc.com) - Small range fixed wing UAVs.
 * [INSITU](https://insitu.com) - Long range and extended endurace fixed wing UAVs.
+* [Threod Systems](http://threod.com) - Fixed wing and multi-rotor UAVs.
 
 ## License
 
