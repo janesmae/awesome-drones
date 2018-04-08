@@ -29,7 +29,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [LibrePilot](https://github.com/librepilot/LibrePilot)
 * [INAV](https://github.com/iNavFlight/inav)
 * [PX4](https://github.com/PX4/Firmware)
-* [ButteFlight](http://butterflight.co) - Butterflight is a fork of Betaflight. Butterflight is dedicated firmware for Mini Quads.
+* [ButteFlight](http://butterflight.co) - Fork of Betaflight. Dedicated firmware for Mini Quads.
 
 ### Libraries ###
 
