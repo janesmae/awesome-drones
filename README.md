@@ -20,7 +20,11 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [LiftOff](https://www.immersionrc.com/fpv-products/liftoff-drone-race-simulator/) - :dollar: FPV racing simulator with realistic OSD (on screen display) experience.
 * [VelociDrone](https://www.velocidrone.com/) - :dollar: Multiplayer FPV racing simulator.
 
-### Firmware ###
+### Firmware for Transmitters ###
+
+ * [OpenTX](http://www.open-tx.org/) - Highly configurable open source firmware for RC radio transmitters.
+
+### Firmware for Flight Controllers ###
 
 * [Betaflight](https://github.com/betaflight/betaflight)
 * [Cleanflight](https://github.com/cleanflight/cleanflight)
