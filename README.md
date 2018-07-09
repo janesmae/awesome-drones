@@ -13,11 +13,11 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Simulators ###
 
-* [DRL Drone Racing Simulator](https://thedroneracingleague.com/simulator/) - FPV Racing game and simulator with officila DRL tracks.
+* [DRL Drone Racing Simulator](https://thedroneracingleague.com/simulator/) - FPV Racing game and simulator with official DRL tracks.
 * [AirSim](https://github.com/Microsoft/AirSim) - Open source simulator based on Unreal Engine for autonomous vehicles.
 * [FPV Freerider](https://fpv-freerider.itch.io/fpv-freerider) - :dollar: FPV (first person view) and LOS (line of sight) racing simulator.
 * [FPV Freerider Recharged](https://fpv-freerider.itch.io/fpv-freerider-recharged) - :dollar: FPV (first person view) and LOS (line of sight) racing simulator.
-* [LiftOff](https://www.immersionrc.com/fpv-products/liftoff-drone-race-simulator/) - :dollar: FPV racing simulator with realistic OSD (on screen display) experience.
+* [LiftOff](https://www.immersionrc.com/fpv-products/liftoff-drone-race-simulator/) - :dollar: FPV racing simulator with realistic OSD (on-screen display) experience.
 * [VelociDrone](https://www.velocidrone.com/) - :dollar: Multiplayer FPV racing simulator.
 
 ### Firmware for Transmitters ###
@@ -38,7 +38,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ### Libraries ###
 
 * [MAVLink](https://github.com/mavlink/mavlink) - Micro Air Vehicle Message Marshalling Library.
-* [MAVROS](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with proxy for Ground Control Station.
+* [MAVROS](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with a proxy for Ground Control Station.
 * [DJI Onboard SDK](https://github.com/dji-sdk/Onboard-SDK) - The Onboard SDK allows you to connect to a supported DJI flight controller using a serial port (TTL UART).
 * [GoBot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT).
 * [LibUAVCAN](https://github.com/UAVCAN/libuavcan) - Portable reference implementation of the UAVCAN protocol stack in C++ for embedded systems and Linux.
@@ -64,11 +64,11 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 * [Eli](http://www.uav.ee) - ELIX-XL - a small, man-portable, ruggedized quadcopter.
 * [AeroVironment](https://www.avinc.com) - Small range fixed wing UAVs.
-* [INSITU](https://insitu.com) - Long range and extended endurace fixed wing UAVs.
+* [INSITU](https://insitu.com) - Long range and extended endurance fixed wing UAVs.
 * [Threod Systems](http://threod.com) - Fixed wing and multi-rotor UAVs.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Jaan Janesmae](https://jaan.janesmae.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Jaan Janesmae](https://jaan.janesmae.com) has waived all copyright and related or neighbouring rights to this work.
