@@ -9,7 +9,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 * [ArduPilot Mission Planner](https://github.com/ArduPilot/MissionPlanner) - Mission planner software.
 * [QGroundControl](http://qgroundcontrol.com/) - Ground Control Station for PX4 and ArduPilot based UAVs.
-* [Papparazzi](http://wiki.paparazziuav.org/wiki/Main_Page) - Software suite for UAVs, including ground control and autopilot.
+* [Paparazzi](http://wiki.paparazziuav.org/wiki/Main_Page) - Software suite for UAVs, including ground control and autopilot.
 
 ### Simulators ###
 
