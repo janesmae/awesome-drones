@@ -27,9 +27,10 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ### Firmware for Flight Controllers ###
 
 * [Ardupilot](https://github.com/ArduPilot/ardupilot)
-* [Betaflight](https://github.com/betaflight/betaflight)
-* [ButteFlight](http://butterflight.co) - Fork of Betaflight. Dedicated firmware for Mini Quads.
-* [Cleanflight](https://github.com/cleanflight/cleanflight)
+* [BaseFlight](https://github.com/multiwii/baseflight)
+* [Betaflight](https://github.com/betaflight/betaflight) - Fork of Cleanflight.
+* [ButterFlight](http://butterflight.co) - Fork of Betaflight. Firmware focusing on Mini Quads.
+* [Cleanflight](https://github.com/cleanflight/cleanflight) - Fork of BaseFlight. Supports more FCs and has additional PID contollers.
 * [INAV](https://github.com/iNavFlight/inav)
 * [LibrePilot](https://github.com/librepilot/LibrePilot)
 * [PX4](https://github.com/PX4/Firmware)
