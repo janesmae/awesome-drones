@@ -29,12 +29,12 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Ardupilot](https://github.com/ArduPilot/ardupilot)
 * [BaseFlight](https://github.com/multiwii/baseflight)
 * [Betaflight](https://github.com/betaflight/betaflight) - Fork of Cleanflight.
-* [ButterFlight](http://butterflight.co) - Fork of Betaflight. Firmware focusing on Mini Quads.
+* [ButterFlight](http://butterflight.co/) - Fork of Betaflight. Firmware focusing on Mini Quads.
 * [Cleanflight](https://github.com/cleanflight/cleanflight) - Fork of BaseFlight. Supports more FCs and has additional PID contollers.
+* [FlightOne](https://flightone.com/download) - Formerly known as Raceflight one
 * [INAV](https://github.com/iNavFlight/inav)
 * [LibrePilot](https://github.com/librepilot/LibrePilot)
 * [PX4](https://github.com/PX4/Firmware)
-* [Raceflight one](https://raceflight.com/raceflight-one/)
 
 ### Libraries ###
 
@@ -57,17 +57,17 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 #### Consumer Drones ####
 
-* [DJI](https://dji.com/) - :cn: - DJI is the world's leader in the consumer drone market - Spark, Mavic, Phantom, Inspire and Matrice series drones.
-* [GoPro](https://gopro.com) - :us: - Karma drone.
-* [Parrot SA](https://www.parrot.com/) - :fr: - Famously Parrot Bebop and Parrot AR series drones.
-* [Yuneec International](http://yuneec.com) - :cn: - Yuneec Typhoon series drones.
+* [DJI](https://www.dji.com/) - :cn: - DJI is the world's leader in the consumer drone market - Spark, Mavic, Phantom, Inspire and Matrice series drones.
+* [GoPro](https://shop.gopro.com/karma) - :us: - Karma drone.
+* [Parrot SA](https://www.parrot.com/global/) - :fr: - Famously Parrot Bebop and Parrot AR series drones.
+* [Yuneec International](https://yuneec.com/) - :cn: - Yuneec Typhoon series drones.
 
 #### Millitary Drones ####
 
-* [AeroVironment](https://www.avinc.com) - Small range fixed wing UAVs.
-* [Eli](http://www.uav.ee) - ELIX-XL - a small, man-portable, ruggedized quadcopter.
-* [INSITU](https://insitu.com) - Long range and extended endurance fixed wing UAVs.
-* [Threod Systems](http://threod.com) - Fixed wing and multi-rotor UAVs.
+* [AeroVironment](https://www.avinc.com/) - Small range fixed wing UAVs.
+* [Eli](http://www.uav.ee/) - ELIX-XL - a small, man-portable, ruggedized quadcopter.
+* [INSITU](https://www.insitu.com/) - Long range and extended endurance fixed wing UAVs.
+* [Threod Systems](http://threod.com/) - Fixed wing and multi-rotor UAVs.
 
 ## License
 
