@@ -29,7 +29,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Ardupilot](https://github.com/ArduPilot/ardupilot)
 * [BaseFlight](https://github.com/multiwii/baseflight)
 * [Betaflight](https://github.com/betaflight/betaflight) - Fork of Cleanflight.
-* [ButterFlight](http://butterflight.co/) - Fork of Betaflight. Firmware focusing on Mini Quads.
+* [ButterFlight](https://github.com/ButterFlight/butterflight) - Fork of Betaflight. Firmware focusing on Mini Quads.
 * [Cleanflight](https://github.com/cleanflight/cleanflight) - Fork of BaseFlight. Supports more FCs and has additional PID contollers.
 * [FlightOne](https://flightone.com/download) - Formerly known as Raceflight one
 * [INAV](https://github.com/iNavFlight/inav)
@@ -58,9 +58,9 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 #### Consumer Drones ####
 
 * [DJI](https://www.dji.com/) - :cn: - DJI is the world's leader in the consumer drone market - Spark, Mavic, Phantom, Inspire and Matrice series drones.
-* [GoPro](https://shop.gopro.com/karma) - :us: - Karma drone.
+* [GoPro](https://shop.gopro.com/EMEA/karma) - :us: - Karma drone.
 * [Parrot SA](https://www.parrot.com/global/) - :fr: - Famously Parrot Bebop and Parrot AR series drones.
-* [Yuneec International](https://yuneec.com/) - :cn: - Yuneec Typhoon series drones.
+* [Yuneec International](https://www.yuneec.com/) - :cn: - Yuneec Typhoon series drones.
 
 #### Millitary Drones ####
 
