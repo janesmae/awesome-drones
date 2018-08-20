@@ -18,6 +18,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [FPV Freerider](https://fpv-freerider.itch.io/fpv-freerider) - :dollar: FPV (first person view) and LOS (line of sight) racing simulator.
 * [FPV Freerider Recharged](https://fpv-freerider.itch.io/fpv-freerider-recharged) - :dollar: FPV (first person view) and LOS (line of sight) racing simulator.
 * [LiftOff](https://www.immersionrc.com/fpv-products/liftoff-drone-race-simulator/) - :dollar: FPV racing simulator with realistic OSD (on-screen display) experience.
+* [RotorRush](http://rotorrush.com/) - :dollar: Formerly known as FPV Event. Subscription based simulator.
 * [VelociDrone](https://www.velocidrone.com/) - :dollar: Multiplayer FPV racing simulator.
 
 ### Firmware for Transmitters ###
