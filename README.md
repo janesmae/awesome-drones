@@ -59,9 +59,8 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 #### Consumer Drones ####
 
 * [DJI](https://www.dji.com/) - :cn: - DJI is the world's leader in the consumer drone market - Spark, Mavic, Phantom, Inspire and Matrice series drones.
-* [GoPro](https://shop.gopro.com/EMEA/karma) - :us: - Karma drone.
 * [Parrot SA](https://www.parrot.com/global/) - :fr: - Famously Parrot Bebop and Parrot AR series drones.
-* [Yuneec International](https://www.yuneec.com/) - :cn: - Yuneec Typhoon series drones.
+* [Yuneec International](https://www.yuneec.com/en_GB/home.html) - :cn: - Yuneec camera drones.
 
 #### Millitary Drones ####
 
