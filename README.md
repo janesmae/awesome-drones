@@ -54,9 +54,16 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ## Hardware and Products ##
 
-### Companies ###
+### Components ###
 
-#### Consumer Drones ####
+#### Remote Control Transmitters ####
+
+* [FlySky](http://www.flyskyrc.com/) - Entry level transmitters.
+* [FrSky](https://www.frsky-rc.com/) - Taranis and Horus line of transmitters powered by OpenTX firmware.
+
+### Complete Drones ###
+
+#### Consumer ####
 
 * [DJI](https://www.dji.com/) - :cn: - DJI is the world's leader in the consumer drone market - Spark, Mavic, Phantom, Inspire and Matrice series drones.
 * [Eachine](https://www.eachine.com/) - :cn: - Mini and micro drones. FPV beginners sets.
@@ -65,7 +72,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Syma](http://www.symatoys.com/) - :hk: - RC toy quadcopters.
 * [Yuneec International](https://www.yuneec.com/en_GB/home.html) - :cn: - Yuneec camera drones.
 
-#### Millitary Drones ####
+#### Millitary ####
 
 * [AeroVironment](https://www.avinc.com/) - Small range fixed wing UAVs.
 * [Eli](http://www.uav.ee/) - ELIX-XL - a small, man-portable, ruggedized quadcopter.
