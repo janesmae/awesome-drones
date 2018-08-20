@@ -2,6 +2,7 @@ Awesome Drones
 ==============
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://travis-ci.org/janesmae/awesome-drones.svg?branch=master)](https://travis-ci.org/janesmae/awesome-drones)
 
 This is a list of various resources related to drones, UAV's and quadcopters. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
@@ -70,7 +71,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Hubsan](https://www.hubsan.com/na/) - :cn: - Micro and Mini lower cost drones.
 * [Parrot SA](https://www.parrot.com/global/) - :fr: - Famously Parrot Bebop and Parrot AR series drones.
 * [Syma](http://www.symatoys.com/) - :hk: - RC toy quadcopters.
-* [Yuneec International](https://www.yuneec.com/en_GB/home.html) - :cn: - Yuneec camera drones.
+* [Yuneec International](https://www.yuneec.com/) - :cn: - Yuneec camera drones.
 
 #### Millitary ####
 
