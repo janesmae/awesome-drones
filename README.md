@@ -62,6 +62,10 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [FlySky](http://www.flyskyrc.com/) - Entry level transmitters.
 * [FrSky](https://www.frsky-rc.com/) - Taranis and Horus line of transmitters powered by OpenTX firmware.
 
+#### Flight Controllers
+
+* [SP Racing](http://seriouslypro.com) - F3, F4 and F7 flight controllers running Cleanflight and Betaflight.
+
 ### Complete Drones ###
 
 #### Consumer ####
