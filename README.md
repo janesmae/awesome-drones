@@ -60,12 +60,16 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ## Hardware and Products ##
 
-### Components ###
+### Components and Accessories ###
 
 #### Remote Control Transmitters ####
 
 * [FlySky](http://www.flyskyrc.com/) - Entry level transmitters.
 * [FrSky](https://www.frsky-rc.com/) - Taranis and Horus line of transmitters powered by OpenTX firmware.
+
+#### Headsets
+
+* [FatShark](https://www.fatshark.com) - Headsets praised by racers.
 
 #### Flight Controllers
 
