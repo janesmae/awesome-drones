@@ -6,6 +6,25 @@ Awesome Drones
 
 This is a list of various resources related to drones, UAV's and quadcopters. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
+## Table of Contents
+
+- [Courses](#courses)
+- [Software and Librairies](#software-and-librairies)
+  - [Simulators](#simulators)
+  - [Firmware for Transmitters](#firmware-for-transmitters)
+  - [Firmware for Flight Controllers](#firmware-for-flight-controllers)
+  - [Librairies](#librairies)
+- [Services](#services)
+- [Hardware and Products](#hardware-and-products)
+  - [Components and Accessories](#components-and-accessories)
+    - [Remote Control Transmitters](#remote-control-transmitters)
+    - [Headsets](#headsets)
+    - [Flight Controllers](#flight-controllers)
+    - [Cameras](#cameras)
+  - [Complete Drones](#complete-drones)
+    - [Consumer](#consumer)
+    - [Millitary](#millitary)
+
 ## Courses
 
 * [Flying Car Engineer](https://eu.udacity.com/course/flying-car-nanodegree--nd787) Udacity - Master autonomous flight software engineering skills as you build your career in flying cars and drone robotics.
