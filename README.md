@@ -41,6 +41,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [FlightOne](https://flightone.com/download) - Formerly known as Raceflight one
 * [INAV](https://github.com/iNavFlight/inav)
 * [LibrePilot](https://github.com/librepilot/LibrePilot)
+* [Open Source Rover Control Code](https://github.com/nasa-jpl/osr-rover-code) - Nasa JPL command firmware for the OSR.
 * [PX4](https://github.com/PX4/Firmware)
 
 ### Libraries ###
@@ -56,7 +57,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [AirMap](https://www.airmap.com/) - Aeronautical data & services to unmanned aircraft.
 * [DroneBase](https://dronebase.com/) - Online marketplace for Drone services.
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software.
-* [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs
+* [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs.
 
 ## Components and Accessories ###
 
@@ -100,6 +101,8 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ### Remotely Operated Ground Vehicles ###
 
 ### Autonomous Ground Vehicles ###
+
+* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - Nasa JPL scaled down version of the curiosity rover, made of COTS.
 
 ## Underwater Drones ##
 
