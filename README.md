@@ -59,6 +59,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [FlightOne](https://flightone.com/download) - Formerly known as Raceflight one
 * [INAV](https://github.com/iNavFlight/inav)
 * [LibrePilot](https://github.com/librepilot/LibrePilot)
+* [Open Source Rover Control Code](https://github.com/nasa-jpl/osr-rover-code) - Nasa JPL command firmware for the OSR.
 * [PX4](https://github.com/PX4/Firmware)
 
 ### Libraries ###
@@ -74,32 +75,30 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [AirMap](https://www.airmap.com/) - Aeronautical data & services to unmanned aircraft.
 * [DroneBase](https://dronebase.com/) - Online marketplace for Drone services.
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software.
-* [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs
+* [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs.
 
-## Hardware and Products ##
+## Components and Accessories ###
 
-### Components and Accessories ###
-
-#### Remote Control Transmitters ####
+### Remote Control Transmitters ###
 
 * [FlySky](http://www.flyskyrc.com/) - Entry level transmitters.
 * [FrSky](https://www.frsky-rc.com/) - Taranis and Horus line of transmitters powered by OpenTX firmware.
 
-#### Headsets
+### Headsets
 
 * [FatShark](https://www.fatshark.com) - Headsets praised by racers.
 
-#### Flight Controllers
+### Flight Controllers
 
 * [SP Racing](http://seriouslypro.com) - F3, F4 and F7 flight controllers running Cleanflight and Betaflight.
 
-#### Cameras
+### Cameras
 
 * [Caddx.us](https://www.caddxshop.com) - Range of cameras for FPV usage.
 
-### Complete Drones ###
+## Flying Drones ##
 
-#### Consumer ####
+### Consumer ###
 
 * [DJI](https://www.dji.com/) - :cn: - DJI is the world's leader in the consumer drone market - Spark, Mavic, Phantom, Inspire and Matrice series drones.
 * [Eachine](https://www.eachine.com/) - :cn: - Mini and micro drones. FPV beginners sets.
@@ -108,12 +107,26 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Syma](http://www.symatoys.com/) - :hk: - RC toy quadcopters.
 * [Yuneec International](https://www.yuneec.com/) - :cn: - Yuneec camera drones.
 
-#### Military ####
+### Military ###
 
 * [AeroVironment](https://www.avinc.com/) - Small range fixed wing UAVs.
 * [Eli](http://www.uav.ee/) - ELIX-XL - a small, man-portable, ruggedized quadcopter.
 * [INSITU](https://www.insitu.com/) - Long range and extended endurance fixed wing UAVs.
 * [Threod Systems](http://threod.com/) - Fixed wing and multi-rotor UAVs.
+
+## Ground Drones ##
+
+### Remotely Operated Ground Vehicles ###
+
+### Autonomous Ground Vehicles ###
+
+* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - Nasa JPL scaled down version of the curiosity rover, made of COTS.
+
+## Underwater Drones ##
+
+### Remotely Operated Underwater Vehicles ###
+
+### Autonomous Underwater Vehicles ###
 
 ## License
 
