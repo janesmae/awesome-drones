@@ -2,9 +2,27 @@ Awesome Drones
 ==============
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://travis-ci.org/janesmae/awesome-drones.svg?branch=master)](https://travis-ci.org/janesmae/awesome-drones)
 
 This is a list of various resources related to drones, UAV's and quadcopters. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
+
+## Table of Contents
+
+- [Courses](#courses)
+- [Software and Librairies](#software-and-librairies)
+  - [Simulators](#simulators)
+  - [Firmware for Transmitters](#firmware-for-transmitters)
+  - [Firmware for Flight Controllers](#firmware-for-flight-controllers)
+  - [Librairies](#librairies)
+- [Services](#services)
+- [Hardware and Products](#hardware-and-products)
+  - [Components and Accessories](#components-and-accessories)
+    - [Remote Control Transmitters](#remote-control-transmitters)
+    - [Headsets](#headsets)
+    - [Flight Controllers](#flight-controllers)
+    - [Cameras](#cameras)
+  - [Complete Drones](#complete-drones)
+    - [Consumer](#consumer)
+    - [Millitary](#millitary)
 
 ## Courses
 
@@ -89,7 +107,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Syma](http://www.symatoys.com/) - :hk: - RC toy quadcopters.
 * [Yuneec International](https://www.yuneec.com/) - :cn: - Yuneec camera drones.
 
-### Millitary ###
+### Military ###
 
 * [AeroVironment](https://www.avinc.com/) - Small range fixed wing UAVs.
 * [Eli](http://www.uav.ee/) - ELIX-XL - a small, man-portable, ruggedized quadcopter.
@@ -112,6 +130,8 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0][CC0-badge]](LICENSE)
 
 To the extent possible under law, [Jaan Janesmae](https://jaan.janesmae.com) has waived all copyright and related or neighbouring rights to this work.
+
+[CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
