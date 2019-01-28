@@ -12,7 +12,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
   - [Simulators](#simulators)
   - [Firmware for Transmitters](#firmware-for-transmitters)
   - [Firmware for Flight Controllers](#firmware-for-flight-controllers)
-  - [Librairies](#librairies)
+  - [Librairies](#libraries)
 - [Services](#services)
 - [Hardware and Products](#hardware-and-products)
   - [Components and Accessories](#components-and-accessories)
