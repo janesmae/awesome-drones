@@ -57,6 +57,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Betaflight](https://github.com/betaflight/betaflight) - Fork of Cleanflight.
 * [ButterFlight](https://github.com/ButterFlight/butterflight) - Fork of Betaflight. Firmware focusing on Mini Quads.
 * [Cleanflight](https://github.com/cleanflight/cleanflight) - Fork of BaseFlight. Supports more FCs and has additional PID contollers.
+* [dRonin](https://dronin.org) - Autopilot/flight controller firmware for controllers in the OpenPilot/Tau Labs family.
 * [FlightOne](https://flightone.com/download) - Formerly known as Raceflight one
 * [INAV](https://github.com/iNavFlight/inav)
 * [LibrePilot](https://github.com/librepilot/LibrePilot)
