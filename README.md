@@ -63,6 +63,8 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [LibrePilot](https://github.com/librepilot/LibrePilot)
 * [Open Source Rover Control Code](https://github.com/nasa-jpl/osr-rover-code) - Nasa JPL command firmware for the OSR.
 * [PX4](https://github.com/PX4/Firmware)
+* [SilverWare](https://github.com/silver13/BoldClash-BWHOOP-B-03) - Firmware for BoldClash BWHOOP B-03 mini drone
+* [SilverWare(NFE)](https://github.com/NotFastEnuf/NFE_Silverware) - Firmware for Alienwhoop ZER0, E011, BWHOOP B-03, H8mini, and BETA FPV LITE flight controllers with NotFastEnuf settings and experimental features
 
 ### Libraries ###
 
