@@ -129,6 +129,8 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ## Underwater Drones ##
 
+* [Geneinno](https://www.geneinno.com/) - Underwater drones.
+
 ### Remotely Operated Underwater Vehicles ###
 
 ### Autonomous Underwater Vehicles ###
