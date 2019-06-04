@@ -91,6 +91,8 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 * [FlySky](http://www.flyskyrc.com/) - Entry level transmitters.
 * [FrSky](https://www.frsky-rc.com/) - Taranis and Horus line of transmitters powered by OpenTX firmware.
+* [Futaba](https://www.futabarc.com)
+* [Spektrum](https://www.spektrumrc.com)
 
 ### Headsets
 
