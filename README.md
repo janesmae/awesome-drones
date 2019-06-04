@@ -131,6 +131,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 #### Autonomous Ground Vehicles
 
 * [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - Nasa JPL scaled down version of the curiosity rover, made of COTS.
+* [Turtlebot](https://gitlab.com/turtlebot/turtlebot) - Open sourced software and hardware UGV, [ROS](http://www.ros.org/) standard platform. 
 
 ### Unmanned Underwater Vehicles
 
