@@ -98,6 +98,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ### Headsets
 
 * [FatShark](https://www.fatshark.com) - Headsets praised by racers.
+* [ORQA FPV.One](https://orqafpv.com) - Upcoming brand of FPV goggles, currently having early bird offers.
 
 ### Video Receivers
 
