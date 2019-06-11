@@ -20,7 +20,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
   - [Flight Controllers](#flight-controllers)
   - [Cameras](#cameras)
 - [Products and Projects](#products-and-projects)
-  - [Unmanned Aerial Vehicles](#unmanned-aerial-vehicle)
+  - [Unmanned Aerial Vehicles](#unmanned-aerial-vehicles)
     - [Consumer](#consumer)
     - [Millitary](#millitary)
   - [Unmanned Ground Vehicles](#unmanned-ground-vehicles)
