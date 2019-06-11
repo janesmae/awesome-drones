@@ -17,6 +17,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 - [Hardware and Components](#hardware-and-components)
   - [Remote Control Transmitters](#remote-control-transmitters)
   - [Headsets](#headsets)
+  - [Video Receivers](#video-receivers)
   - [Flight Controllers](#flight-controllers)
   - [Cameras](#cameras)
 - [Products and Projects](#products-and-projects)
@@ -97,6 +98,10 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ### Headsets
 
 * [FatShark](https://www.fatshark.com) - Headsets praised by racers.
+
+### Video Receivers
+
+* [rapidFIRE](https://www.immersionrc.com/fpv-products/rapidfire/) - rapidFIRE 5.8GHz Goggle Module.
 
 ### Flight Controllers
 
