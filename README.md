@@ -107,6 +107,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Flight Controllers
 
+* [Airbot](https://store.myairbot.com/flight-controller.html) - Flightcontrollers running Betaflight
 * [SP Racing](http://seriouslypro.com) - F3, F4 and F7 flight controllers running Cleanflight and Betaflight.
 
 ### Cameras
