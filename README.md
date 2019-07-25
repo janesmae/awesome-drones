@@ -18,7 +18,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
   - [Remote Control Transmitters](#remote-control-transmitters)
   - [Headsets](#headsets)
   - [Video Receivers](#video-receivers)
-  - [Flight Controllers](#flight-controllers)
+  - [Electronics and Motors](#electronics-and-motors)
   - [Cameras](#cameras)
 - [Products and Projects](#products-and-projects)
   - [Unmanned Aerial Vehicles](#unmanned-aerial-vehicles)
@@ -107,10 +107,33 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [rapidFIRE](https://www.immersionrc.com/fpv-products/rapidfire/) - rapidFIRE 5.8GHz Goggle Module.
 * [FuriousFPV True-D](https://furiousfpv.com/index.php?cPath=29)
 
-### Flight Controllers
+### Electronics and Motors
 
-* [Airbot](https://store.myairbot.com/flight-controller.html) - Flightcontrollers running Betaflight
-* [SP Racing](http://seriouslypro.com) - F3, F4 and F7 flight controllers running Cleanflight and Betaflight.
+Terminology:
+
+* FC = Flight Controller
+* ESC = Electronic Speed Controller
+* PDB = Power Distribution Board
+* RX = Receivers
+* TX = Transmitters (external)
+* VTX = Video Transmitter
+
+* [#BHobby](https://www.3bhobby.com) - Motors
+* [Airbot](https://store.myairbot.com/flight-controller.html) - FC, ESC
+* [BrotherHobby](https://www.brotherhobbystore.com) - Motors
+* [DalProp](http://dalprop.com) - Props
+* [Fl1ghtOne](https://flightone.com) - FC, ESC
+* [Flyduino](https://www.flyduino.net/en_US/) - FC, ESC
+* [Hobbywing](http://www.hobbywing.com) - FC, ESC, Motors
+* [Holybro](http://www.holybro.com) - FC, ESC, PDB
+* [HQProp](http://www.hqprop.com) - Props
+* [iFlight](https://www.iflight-rc.com) - Motors
+* [Lumenier](https://www.lumenier.com) - FC, ESC, PDB, VTX, Motors
+* [MaterSys](http://www.mateksys.com) - FC, PDB, VTX
+* [RacerStar](https://www.racerstar.com) - FC, ESC, Motors
+* [SP Racing](http://seriouslypro.com) - FC
+* [T-Motor](http://www.tmotor.com) - FC, Motors
+* [Team Blacksheep](https://www.team-blacksheep.com) - ESC, RX, TX, VTX
 
 ### Cameras
 
