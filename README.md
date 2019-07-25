@@ -114,7 +114,9 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Cameras
 
-* [Caddx.us](https://www.caddxshop.com) - Range of cameras for FPV usage.
+* [Caddx.us](https://www.caddxshop.com)
+* [Foxeer](http://www.foxeer.com)
+* [RunCam](https://runcam.com)
 
 ## Products and Projects
 
