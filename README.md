@@ -13,6 +13,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
   - [Firmware for Transmitters](#firmware-for-transmitters)
   - [Firmware for Flight Controllers](#firmware-for-flight-controllers)
   - [Libraries](#libraries)
+  - [Ground Control Stations](#ground-Control-Stations)
 - [Services](#services)
 - [Hardware and Components](#hardware-and-components)
   - [Remote Control Transmitters](#remote-control-transmitters)
@@ -79,6 +80,15 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [LibUAVCAN](https://github.com/UAVCAN/libuavcan) - Portable reference implementation of the UAVCAN protocol stack in C++ for embedded systems and Linux.
 * [MAVLink](https://github.com/mavlink/mavlink) - Micro Air Vehicle Message Marshalling Library.
 * [MAVROS](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with a proxy for Ground Control Station.
+
+### Ground Control Stations
+
+* [QGroundControl](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows).
+* [Arduleader](https://github.com/geeksville/arduleader) - An android ground controller (and other things) for Mavlink/Arduplane.
+* [Tower](https://github.com/DroidPlanner/Tower) - Ground Control Station for Android Devices.
+* [MAVProxy](http://ardupilot.github.io/MAVProxy/) - A UAV ground station software package for MAVLink based systems.
+* [Ardupilot Mission Planner](https://ardupilot.org/planner/index.html) - A full-featured ground station application for the ArduPilot open source autopilot project.
+* [APM Planner 2](https://ardupilot.org/planner2/) - An open-source ground station application for MAVlink based autopilots including APM and PX4/Pixhawk that can be run on Windows, Mac OSX, and Linux.
 
 ## Services
 
