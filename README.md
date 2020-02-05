@@ -16,6 +16,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 - [Services](#services)
 - [Hardware and Components](#hardware-and-components)
   - [Remote Control Transmitters](#remote-control-transmitters)
+  - [Drone Frames](#drone-frames)
   - [Headsets](#headsets)
   - [Video Receivers](#video-receivers)
   - [Electronics and Motors](#electronics-and-motors)
@@ -95,6 +96,14 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [FrSky](https://www.frsky-rc.com/) - Taranis and Horus line of transmitters powered by OpenTX firmware.
 * [Futaba](https://www.futabarc.com)
 * [Spektrum](https://www.spektrumrc.com)
+* [Team Blacksheep](https://team-blacksheep.com) - Tango 1 and 2 transmitters.
+
+### Drone Frames
+
+* [Source One by TBS](https://github.com/tbs-trappy/source_one) - Open Source freestyle FPV drone frame.
+* [Source Two by TBS](https://github.com/ps915/source_two) - Open Source racing FPV drone frame.
+* [Source Micro by TBS](https://github.com/ps915/source_micro) - Open Source mini drone frame.
+* [Source X by TBS](https://github.com/ps915/source_x) - Open Source giant racing drone frame.
 
 ### Headsets
 
@@ -168,7 +177,7 @@ List:
 #### Autonomous Ground Vehicles
 
 * [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - Nasa JPL scaled down version of the curiosity rover, made of COTS.
-* [Turtlebot](https://gitlab.com/turtlebot/turtlebot) - Open sourced UGV, [ROS](http://www.ros.org/) standard platform. 
+* [Turtlebot](https://gitlab.com/turtlebot/turtlebot) - Open sourced UGV, [ROS](http://www.ros.org/) standard platform.
 
 ### Unmanned Underwater Vehicles
 
