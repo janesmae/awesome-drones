@@ -139,7 +139,7 @@ Terminology:
 
 List:
 
-* [#BHobby](https://www.3bhobby.com) - Motors
+* [3BHobby](https://www.3bhobby.com) - Motors
 * [Airbot](https://store.myairbot.com/flight-controller.html) - FC, ESC
 * [BrotherHobby](https://www.brotherhobbystore.com) - Motors
 * [DalProp](http://dalprop.com) - Props
