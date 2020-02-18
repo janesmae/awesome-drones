@@ -187,7 +187,7 @@ List:
 #### Autonomous Ground Vehicles
 
 * [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - Nasa JPL scaled down version of the curiosity rover, made of COTS.
-* [Turtlebot](https://gitlab.com/turtlebot/turtlebot) - Open sourced UGV, [ROS](http://www.ros.org/) standard platform.
+* [Turtlebot](https://www.turtlebot.com) - Open sourced UGV, [ROS](http://www.ros.org/) standard platform.
 
 ### Unmanned Underwater Vehicles
 
