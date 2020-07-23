@@ -115,11 +115,14 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Source One by TBS](https://github.com/tbs-trappy/source_one) - Open Source freestyle FPV drone frame.
 * [Source Two by TBS](https://github.com/ps915/source_two) - Open Source racing FPV drone frame.
 * [Source Micro by TBS](https://github.com/ps915/source_micro) - Open Source mini drone frame.
+* [Source PodRacer](https://github.com/ps915/source_podracer) - Open source ultra-light drone frame.
+* [Source V by TBS](https://github.com/ps915/source_v) - Open Source ultra-stiff drone frame.
 * [Source X by TBS](https://github.com/ps915/source_x) - Open Source giant racing drone frame.
 
 ### Headsets
 
 * [Aomway](http://www.aomway.com/product-category/products/headset/) - Lower end priced goggles.
+* [DJI Digital FPV System](https://www.dji.com/fpv/) - Low latency digital FPV goggles.
 * [FatShark](https://www.fatshark.com) - Headsets praised by racers.
 * [ORQA FPV.One](https://orqafpv.com) - Upcoming brand of FPV goggles, currently having early bird offers.
 
