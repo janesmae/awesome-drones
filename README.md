@@ -166,6 +166,7 @@ List:
 * [DalProp](http://dalprop.com) - Props
 * [Fl1ghtOne](https://flightone.com) - FC, ESC
 * [Flyduino](https://www.flyduino.net/en_US/) - FC, ESC
+* [GemFan](http://www.gemfanhobby.com) - Props
 * [Hobbywing](http://www.hobbywing.com) - FC, ESC, Motors
 * [Holybro](http://www.holybro.com) - FC, ESC, PDB
 * [HQProp](http://www.hqprop.com) - Props
