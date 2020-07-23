@@ -60,13 +60,14 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ### Firmware for Flight Controllers
 
 * [Ardupilot](https://github.com/ArduPilot/ardupilot)
-* [BaseFlight](https://github.com/multiwii/baseflight)
+* [BaseFlight](https://github.com/multiwii/baseflight) - (Outdated/Inactive)
 * [Betaflight](https://github.com/betaflight/betaflight) - Fork of Cleanflight.
 * [ButterFlight](https://github.com/ButterFlight/butterflight) - Fork of Betaflight. Firmware focusing on Mini Quads.
 * [Cleanflight](https://github.com/cleanflight/cleanflight) - Fork of BaseFlight. Supports more FCs and has additional PID contollers.
 * [dRonin](https://dronin.org) - Autopilot/flight controller firmware for controllers in the OpenPilot/Tau Labs family.
-* [FlightOne](https://flightone.com/download) - Formerly known as Raceflight one
+* [FlightOne](https://flightone.com/download) - Formerly known as Raceflight one.
 * [INAV](https://github.com/iNavFlight/inav)
+* [Kiss](https://kiss.flyduino.net) - Firmware for KISS FCs.
 * [LibrePilot](https://github.com/librepilot/LibrePilot)
 * [Open Source Rover Control Code](https://github.com/nasa-jpl/osr-rover-code) - Nasa JPL command firmware for the OSR.
 * [PX4](https://github.com/PX4/Firmware)
