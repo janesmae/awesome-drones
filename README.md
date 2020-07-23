@@ -128,8 +128,22 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Video Receivers
 
-* [rapidFIRE](https://www.immersionrc.com/fpv-products/rapidfire/) - rapidFIRE 5.8GHz Goggle Module.
+#### 1.3GHz
+
+* [ClearView XLR 1.3](https://clearview-direct.com/product-category/ground-station-receivers/1-3-receivers/)
+
+#### 2.4GHz
+
+* [ClearView XLR 2.4](https://clearview-direct.com/product-category/ground-station-receivers/2-4-receivers/)
+* [TBS Ground station](https://www.team-blacksheep.com/products/prod:tbs_gs_2g4)
+
+#### 5.8GHz
+
+* [ClearView Goggle Receiver](https://clearview-direct.com/shop/clearview-goggle-products/clearview-goggle-module/)
+* [ClearView 5.8GHz Ground Station Receivers](https://clearview-direct.com/product-category/ground-station-receivers/5-8-receivers/)
 * [FuriousFPV True-D](https://furiousfpv.com/index.php?cPath=29)
+* [rapidFIRE](https://www.immersionrc.com/fpv-products/rapidfire/)
+* [TBS Fusion](https://www.team-blacksheep.com/products/prod:tbs_fusion) - Has CRSF integration (for changing channels).
 
 ### Electronics and Motors
 
@@ -140,6 +154,7 @@ Terminology:
 * PDB = Power Distribution Board
 * RX = Receivers
 * TX = Transmitters (external)
+* VRX = Video Receiver
 * VTX = Video Transmitter
 
 List:
@@ -147,6 +162,7 @@ List:
 * [3BHobby](https://www.3bhobby.com) - Motors
 * [Airbot](https://store.myairbot.com/flight-controller.html) - FC, ESC
 * [BrotherHobby](https://www.brotherhobbystore.com) - Motors
+* [ClearView](https://clearview-direct.com/) - VRX, VTX
 * [DalProp](http://dalprop.com) - Props
 * [Fl1ghtOne](https://flightone.com) - FC, ESC
 * [Flyduino](https://www.flyduino.net/en_US/) - FC, ESC
@@ -159,7 +175,7 @@ List:
 * [RacerStar](https://www.racerstar.com) - FC, ESC, Motors
 * [SP Racing](http://seriouslypro.com) - FC
 * [T-Motor](http://www.tmotor.com) - FC, Motors
-* [Team Blacksheep](https://www.team-blacksheep.com) - ESC, RX, TX, VTX
+* [Team Blacksheep](https://www.team-blacksheep.com) - ESC, RX, TX, VRX, VTX
 
 ### Cameras
 
