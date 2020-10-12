@@ -16,6 +16,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
   - [Ground Control Stations](#ground-Control-Stations)
 - [Services](#services)
 - [Hardware and Components](#hardware-and-components)
+  - [Platforms](#platforms)
   - [Remote Control Transmitters](#remote-control-transmitters)
   - [Drone Frames](#drone-frames)
   - [Headsets](#headsets)
@@ -101,6 +102,10 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs.
 
 ## Hardware and Components
+
+### Platforms
+
+* [OpenUAV](https://openuav.eava.ee) - Open-souce UAV platform for research and development
 
 ### Remote Control Transmitters
 
