@@ -57,6 +57,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Firmware for Transmitters
 
+* [FreedomTX](https://github.com/tbs-fpv/freedomtx) - Custom firmware for TBS Tango 2 based on OpenTX.
 * [OpenTX](http://www.open-tx.org/) - Highly configurable open source firmware for RC radio transmitters.
 
 ### Firmware for Flight Controllers
