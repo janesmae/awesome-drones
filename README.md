@@ -52,7 +52,8 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ### Simulators
 
 * [AirSim](https://github.com/Microsoft/AirSim) - Open source simulator based on Unreal Engine for autonomous vehicles.
-* [DRL Drone Racing Simulator](https://thedroneracingleague.com/drl-sim-3/) - FPV Racing game and simulator with official DRL tracks.
+* [Drone Racing Arcade](https://thedroneracingleague.com/arcade/) - Mobile based FPV racing game
+* [DRL Drone Racing Simulator](https://thedroneracingleague.com/drlsim/) - FPV Racing game and simulator with official DRL tracks.
 * [FPV Air 2](https://store.steampowered.com/app/889040/FPV_Air_2/) - :dollar: - Basic FPV simulator, runs on slower hardware. Available on Steam.
 * [FPV Freerider](https://fpv-freerider.itch.io/fpv-freerider) - :dollar: FPV (first person view) and LOS (line of sight) racing simulator.
 * [FPV Freerider Recharged](https://fpv-freerider.itch.io/fpv-freerider-recharged) - :dollar: FPV (first person view) and LOS (line of sight) racing simulator.
