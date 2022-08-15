@@ -8,6 +8,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ## Table of Contents
 
 - [Courses](#courses)
+  - [Udemy](#udemy)
 - [Software and Librairies](#software-and-librairies)
   - [Simulators](#simulators)
   - [Firmware for Transmitters](#firmware-for-transmitters)
@@ -35,7 +36,12 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 * [Flying Car and Autonomous Flight Engineer](https://eu.udacity.com/course/flying-car-nanodegree--nd787) Udacity - Master autonomous flight software engineering skills as you build your career in flying cars and drone robotics.
 * [Robotics: Dynamics and Control](https://www.edx.org/course/robotics-dynamics-control-pennx-robo3x) edX - Learn how to develop dynamic models of robot manipulators, mobile robots, and drones (quadrotors).
-* [UAS/Drone Remote Pilot Test Prep for Part 107 (Init & Recur)](https://www.udemy.com/remote-pilot-certificate-test-prep-for-part-107-exam/) Udemy - A comprehensive class that encompasses everything needed to know to become a proficient Remote Pilot and to pass the FAA written initial or recurrent exam.
+
+### Udemy
+
+* [UAS/Drone Remote Pilot Test Prep for Part 107](https://www.udemy.com/remote-pilot-certificate-test-prep-for-part-107-exam/) - :dollar: - A comprehensive class that encompasses everything needed to know to become a proficient Remote Pilot and to pass the FAA written initial or recurrent exam.
+* [Drone Photography | Shoot Professional Photos With Any Drone](https://www.udemy.com/course/dronephotography/) - :dollar: - Your Complete Online Guide to Shooting Incredible Drone Photography Like a Professional
+* [Drone Programming with Python - Face Recognition & Tracking](https://www.udemy.com/course/drone-programming-with-python-face-recognition-tracking/) - :dollar: - Operating drone with network programming, face recognition using OpenCV, automatic tracking, implementing web camera
 
 ## Software and Libraries
 
