@@ -214,8 +214,9 @@ List:
 #### Military
 
 * [AeroVironment](https://www.avinc.com/) - Small range fixed wing UAVs.
+* [Baykar](https://www.baykartech.com/en/) - Bayraktar series battle- proven long-range fixed wing UAVs.
 * [Eli](http://www.uav.ee/) - ELIX-XL - a small, man-portable, ruggedized quadcopter.
-* [INSITU](https://www.insitu.com/) - Long range and extended endurance fixed wing UAVs.
+* [INSITU](https://www.insitu.com/) - Long-range and extended endurance fixed wing UAVs.
 * [Threod Systems](http://threod.com/) - Fixed wing and multi-rotor UAVs.
 
 ### Unmanned Ground Vehicles
