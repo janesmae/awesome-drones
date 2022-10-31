@@ -204,7 +204,8 @@ List:
 
 #### Consumer
 
-* [DJI](https://www.dji.com/) - :cn: - DJI is the world's leader in the consumer drone market - Spark, Mavic, Phantom, Inspire and Matrice series drones.
+* [Autel](https://www.autelpilot.eu/) - :cn: - Compact EVO series drones, alternative to DJI Mavic series. Dragonfish series fixed-wing UAVs coming soon.
+* [DJI](https://www.dji.com/) - :cn: - DJI is the world's leader in the consumer drone market - Mavic, Phantom, Inspire and Matrice series drones.
 * [Eachine](https://www.eachine.com/) - :cn: - Mini and micro drones. FPV beginners sets.
 * [Hubsan](https://www.hubsan.com/na/) - :cn: - Micro and Mini lower cost drones.
 * [Parrot SA](https://www.parrot.com/global/) - :fr: - Famously Parrot Bebop and Parrot AR series drones.
@@ -213,11 +214,11 @@ List:
 
 #### Military
 
-* [AeroVironment](https://www.avinc.com/) - Small range fixed wing UAVs.
-* [Baykar](https://www.baykartech.com/en/) - Bayraktar series battle- proven long-range fixed wing UAVs.
+* [AeroVironment](https://www.avinc.com/) - Small range fixed-wing UAVs.
+* [Baykar](https://www.baykartech.com/en/) - Bayraktar series battle- proven long-range fixed-wing UAVs.
 * [Eli](http://www.uav.ee/) - ELIX-XL - a small, man-portable, ruggedized quadcopter.
-* [INSITU](https://www.insitu.com/) - Long-range and extended endurance fixed wing UAVs.
-* [Threod Systems](http://threod.com/) - Fixed wing and multi-rotor UAVs.
+* [INSITU](https://www.insitu.com/) - Long-range and extended endurance fixed-wing UAVs.
+* [Threod Systems](http://threod.com/) - Fixed-wing and multi-rotor UAVs.
 
 ### Unmanned Ground Vehicles
 
