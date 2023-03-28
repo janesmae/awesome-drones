@@ -77,9 +77,9 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Ardupilot](https://github.com/ArduPilot/ardupilot)
 * [BaseFlight](https://github.com/multiwii/baseflight) - :ghost:
 * [Betaflight](https://github.com/betaflight/betaflight) - Fork of Cleanflight.
-* [ButterFlight](https://github.com/ButterFlight/butterflight) - :ghost: - Fork of Betaflight. Firmware focusing on Mini Quads.
-* [Cleanflight](https://github.com/cleanflight/cleanflight) - :ghost: - Fork of BaseFlight. Supports more FCs and has additional PID contollers.
-* [dRonin](https://dronin.org) - :ghost: - Autopilot/flight controller firmware for controllers in the OpenPilot/Tau Labs family.
+* [ButterFlight](https://github.com/ButterFlight/butterflight) - :ghost: Fork of Betaflight. Firmware focusing on Mini Quads.
+* [Cleanflight](https://github.com/cleanflight/cleanflight) - :ghost: Fork of BaseFlight. Supports more FCs and has additional PID contollers.
+* [dRonin](https://dronin.org) - :ghost: Autopilot/flight controller firmware for controllers in the OpenPilot/Tau Labs family.
 * [EmuFlight](https://github.com/emuflight/EmuFlight) - FC Firmware focusing on flight performance, innovative filtering, leading-edge feature additions, and wide target support.
 * [FalcoX](https://flightone.com/download.php?version=stable) - Formerly known as Raceflight one, FlightOne.
 * [INAV](https://github.com/iNavFlight/inav)
@@ -87,8 +87,8 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [LibrePilot](https://github.com/librepilot/LibrePilot) - :ghost: (GitHub fork is Outdated/Inactive)
 * [Open Source Rover Control Code](https://github.com/nasa-jpl/osr-rover-code) - Nasa JPL command firmware for the OSR.
 * [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) - Rebranded to AutoPilot from Firmware
-* [SilverWare](https://github.com/silver13/BoldClash-BWHOOP-B-03) - :ghost: - Firmware for BoldClash BWHOOP B-03 mini drone
-* [SilverWare(NFE)](https://github.com/NotFastEnuf/NFE_Silverware) - :ghost: - Firmware for Alienwhoop ZER0, E011, BWHOOP B-03, H8mini, and BETA FPV LITE flight controllers with NotFastEnuf settings and experimental features
+* [SilverWare](https://github.com/silver13/BoldClash-BWHOOP-B-03) - :ghost: Firmware for BoldClash BWHOOP B-03 mini drone
+* [SilverWare(NFE)](https://github.com/NotFastEnuf/NFE_Silverware) - :ghost: Firmware for Alienwhoop ZER0, E011, BWHOOP B-03, H8mini, and BETA FPV LITE flight controllers with NotFastEnuf settings and experimental features
 
 ### Libraries
 
@@ -101,8 +101,8 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ### Ground Control Stations
 
 * [QGroundControl](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows).
-* [Arduleader](https://github.com/geeksville/arduleader) - An android ground controller (and other things) for Mavlink/Arduplane.
-* [Tower](https://github.com/DroidPlanner/Tower) - Ground Control Station for Android Devices.
+* [Arduleader](https://github.com/geeksville/arduleader) - :ghost: An android ground controller (and other things) for Mavlink/Arduplane.
+* [Tower](https://github.com/DroidPlanner/Tower) - :ghost: Ground Control Station for Android Devices.
 * [MAVProxy](http://ardupilot.github.io/MAVProxy/) - A UAV ground station software package for MAVLink based systems.
 * [Ardupilot Mission Planner](https://ardupilot.org/planner/index.html) - A full-featured ground station application for the ArduPilot open source autopilot project.
 * [APM Planner 2](https://ardupilot.org/planner2/) - An open-source ground station application for MAVlink based autopilots including APM and PX4/Pixhawk that can be run on Windows, Mac OSX, and Linux.
