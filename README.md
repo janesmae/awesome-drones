@@ -110,10 +110,9 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ## Services
 
 * [AirMap](https://www.airmap.com/) - Aeronautical data & services to unmanned aircraft.
-* [Airware](https://www.airware.com/) - Data processing platfrom for turning aerial data into business insights.
-* [DroneBase](https://dronebase.com/) - Online marketplace for Drone services.
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software.
 * [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs.
+* [Zeitiew](https://www.zeitview.com/) - Online marketplace for Drone services. Formerly known as DroneBase.
 
 ## Hardware and Components
 
