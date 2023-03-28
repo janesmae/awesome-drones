@@ -72,18 +72,18 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Ardupilot](https://github.com/ArduPilot/ardupilot)
 * [BaseFlight](https://github.com/multiwii/baseflight) - (Outdated/Inactive)
 * [Betaflight](https://github.com/betaflight/betaflight) - Fork of Cleanflight.
-* [ButterFlight](https://github.com/ButterFlight/butterflight) - Fork of Betaflight. Firmware focusing on Mini Quads.
-* [Cleanflight](https://github.com/cleanflight/cleanflight) - Fork of BaseFlight. Supports more FCs and has additional PID contollers.
-* [dRonin](https://dronin.org) - Autopilot/flight controller firmware for controllers in the OpenPilot/Tau Labs family.
+* [ButterFlight](https://github.com/ButterFlight/butterflight) - (Outdated/Inactive) - Fork of Betaflight. Firmware focusing on Mini Quads.
+* [Cleanflight](https://github.com/cleanflight/cleanflight) - (Outdated/Inactive) - Fork of BaseFlight. Supports more FCs and has additional PID contollers.
+* [dRonin](https://dronin.org) - (Outdated/Inactive) - Autopilot/flight controller firmware for controllers in the OpenPilot/Tau Labs family.
 * [EmuFlight](https://github.com/emuflight/EmuFlight) - FC Firmware focusing on flight performance, innovative filtering, leading-edge feature additions, and wide target support.
-* [FlightOne](https://flightone.com/download) - Formerly known as Raceflight one.
+* [FalcoX](https://flightone.com/download.php?version=stable) - Formerly known as Raceflight one, FlightOne.
 * [INAV](https://github.com/iNavFlight/inav)
-* [Kiss](https://kiss.flyduino.net) - Firmware for KISS FCs.
-* [LibrePilot](https://github.com/librepilot/LibrePilot)
+* [Kiss](https://www.flyduino.net/en_US/page/downloads) - Firmware for KISS FCs.
+* [LibrePilot](https://github.com/librepilot/LibrePilot) - (GitHub form is Outdated/Inactive)
 * [Open Source Rover Control Code](https://github.com/nasa-jpl/osr-rover-code) - Nasa JPL command firmware for the OSR.
-* [PX4](https://github.com/PX4/Firmware)
-* [SilverWare](https://github.com/silver13/BoldClash-BWHOOP-B-03) - Firmware for BoldClash BWHOOP B-03 mini drone
-* [SilverWare(NFE)](https://github.com/NotFastEnuf/NFE_Silverware) - Firmware for Alienwhoop ZER0, E011, BWHOOP B-03, H8mini, and BETA FPV LITE flight controllers with NotFastEnuf settings and experimental features
+* [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) - Rebranded to AutoPilot from Firmware
+* [SilverWare](https://github.com/silver13/BoldClash-BWHOOP-B-03) - (Outdated/Inactive) - Firmware for BoldClash BWHOOP B-03 mini drone
+* [SilverWare(NFE)](https://github.com/NotFastEnuf/NFE_Silverware) - (Outdated/Inactive) - Firmware for Alienwhoop ZER0, E011, BWHOOP B-03, H8mini, and BETA FPV LITE flight controllers with NotFastEnuf settings and experimental features
 
 ### Libraries
 
