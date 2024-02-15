@@ -36,7 +36,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
   - [Unmanned Ground Vehicles](#unmanned-ground-vehicles)
     - [Autonomous Ground Vehicles](#autonomous-ground-vehicles)
   - [Unmanned Underwater Vehicles](#unmanned-underwater-vehicles)
-  - [Visual Localization](#visual-localization)
+- [Visual Localization](#visual-localization)
 
 ## Courses
 
@@ -236,7 +236,7 @@ List:
 
 * [Geneinno](https://www.geneinno.com/) - Underwater drones.
 
-### Visual Localization
+## Visual Localization
 *   [Drone-Satellite-Ground Three Platiform Localization](https://github.com/layumi/University1652-Baseline) 
 *   [ACM MM2023 Workshop: UAV in Multimedia](https://www.zdzheng.xyz/ACMMM2023Workshop/)
 *   [Visual Localization Leaderboard](https://github.com/layumi/University1652-Baseline/tree/master/State-of-the-art)
