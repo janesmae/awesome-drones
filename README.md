@@ -159,7 +159,6 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 * [ClearView Goggle Receiver](https://clearview-direct.com/shop/clearview-goggle-products/clearview-goggle-module/)
 * [ClearView 5.8GHz Ground Station Receivers](https://clearview-direct.com/product-category/ground-station-receivers/5-8-receivers/)
-* [FuriousFPV True-D](https://furiousfpv.com/index.php?cPath=29)
 * [rapidFIRE](https://www.immersionrc.com/fpv-products/rapidfire/)
 * [TBS Fusion](https://www.team-blacksheep.com/products/prod:tbs_fusion) - Has CRSF integration (for changing channels).
 
