@@ -199,6 +199,7 @@ List:
 ### Cameras
 
 * [Caddx.us](https://caddxfpv.com/)
+* [DJI O3 Air unit](https://www.dji.com/ee/o3-air-unit) - Camera with digital video transmission
 * [Foxeer](http://www.foxeer.com)
 * [RunCam](https://runcam.com)
 
