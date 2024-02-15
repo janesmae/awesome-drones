@@ -36,6 +36,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
   - [Unmanned Ground Vehicles](#unmanned-ground-vehicles)
     - [Autonomous Ground Vehicles](#autonomous-ground-vehicles)
   - [Unmanned Underwater Vehicles](#unmanned-underwater-vehicles)
+  - [Visual Localization](#visual-localization)
 
 ## Courses
 
