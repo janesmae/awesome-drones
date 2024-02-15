@@ -182,6 +182,7 @@ List:
 * [BrotherHobby](https://www.brotherhobbystore.com) - Motors
 * [ClearView](https://clearview-direct.com/) - VRX, VTX
 * [DalProp](http://dalprop.com) - Props
+* [Diatone](https://www.diatone.us/) - FC, ESC, VTX, Motors
 * [Fl1ghtOne](https://flightone.com) - FC, ESC
 * [Flyduino](https://www.flyduino.net/en_US/) - FC, ESC
 * [GemFan](http://www.gemfanhobby.com) - Props
@@ -190,7 +191,7 @@ List:
 * [HQProp](http://www.hqprop.com) - Props
 * [iFlight](https://www.iflight-rc.com) - Motors
 * [Lumenier](https://www.lumenier.com) - FC, ESC, PDB, VTX, Motors
-* [MaterSys](http://www.mateksys.com) - FC, PDB, VTX
+* [MatekSys](http://www.mateksys.com) - FC, PDB, VTX
 * [RacerStar](https://www.racerstar.com) - FC, ESC, Motors
 * [SP Racing](http://seriouslypro.com) - FC
 * [T-Motor](http://www.tmotor.com) - FC, Motors
