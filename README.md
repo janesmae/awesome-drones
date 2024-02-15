@@ -235,6 +235,11 @@ List:
 
 * [Geneinno](https://www.geneinno.com/) - Underwater drones.
 
+### Visual Localization
+*   [Drone-Satellite-Ground Three Platiform Localization](https://github.com/layumi/University1652-Baseline) 
+*   [ACM MM2023 Workshop: UAV in Multimedia](https://www.zdzheng.xyz/ACMMM2023Workshop/)
+*   [Visual Localization Leaderboard](https://github.com/layumi/University1652-Baseline/tree/master/State-of-the-art)
+
 ## License
 
 [![CC0][CC0-badge]](LICENSE)
