@@ -198,7 +198,7 @@ List:
 
 ### Cameras
 
-* [Caddx.us](https://www.caddxshop.com)
+* [Caddx.us](https://caddxfpv.com/)
 * [Foxeer](http://www.foxeer.com)
 * [RunCam](https://runcam.com)
 
@@ -220,7 +220,7 @@ List:
 
 * [AeroVironment](https://www.avinc.com/) - Small range fixed-wing UAVs.
 * [Baykar](https://www.baykartech.com/en/) - Bayraktar series battle- proven long-range fixed-wing UAVs.
-* [Eli](http://www.uav.ee/) - ELIX-XL - a small, man-portable, ruggedized quadcopter.
+* [Eli](http://www.uav.ee/) - Pneumatic launchers for fixed wing UAVs.
 * [INSITU](https://www.insitu.com/) - Long-range and extended endurance fixed-wing UAVs.
 * [Threod Systems](http://threod.com/) - Fixed-wing and multi-rotor UAVs.
 
