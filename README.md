@@ -86,6 +86,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [INAV](https://github.com/iNavFlight/inav)
 * [Kiss](https://www.flyduino.net/en_US/page/downloads) - Firmware for KISS FCs.
 * [LibrePilot](https://github.com/librepilot/LibrePilot) - :ghost: (GitHub fork is Outdated/Inactive)
+* [madflight](https://github.com/qqqlab/madflight) - Flight controller for Arduino ESP32 / RP2350 / RP2040 / STM32.
 * [Open Source Rover Control Code](https://github.com/nasa-jpl/osr-rover-code) - Nasa JPL command firmware for the OSR.
 * [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) - Rebranded to AutoPilot from Firmware
 * [SilverWare](https://github.com/silver13/BoldClash-BWHOOP-B-03) - :ghost: Firmware for BoldClash BWHOOP B-03 mini drone
