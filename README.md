@@ -36,6 +36,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
   - [Unmanned Ground Vehicles](#unmanned-ground-vehicles)
     - [Autonomous Ground Vehicles](#autonomous-ground-vehicles)
   - [Unmanned Underwater Vehicles](#unmanned-underwater-vehicles)
+- [Resources](#resources)
 - [Visual Localization](#visual-localization)
 
 ## Courses
@@ -236,6 +237,10 @@ List:
 ### Unmanned Underwater Vehicles
 
 * [Geneinno](https://www.geneinno.com/) - Underwater drones.
+
+## Resources
+
+* [The FPV Bible](https://fpvbible.com) - Comprehensive, open-source guide to building and flying FPV drones. Covers everything from parts selection to tuning. ([Source](https://github.com/lacymorrow/fpv-bible-site))
 
 ## Visual Localization
 *   [Drone-Satellite-Ground Three Platiform Localization](https://github.com/layumi/University1652-Baseline) 
