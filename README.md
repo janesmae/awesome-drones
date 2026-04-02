@@ -108,6 +108,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [MAVProxy](http://ardupilot.github.io/MAVProxy/) - A UAV ground station software package for MAVLink based systems.
 * [Ardupilot Mission Planner](https://ardupilot.org/planner/index.html) - A full-featured ground station application for the ArduPilot open source autopilot project.
 * [APM Planner 2](https://ardupilot.org/planner2/) - An open-source ground station application for MAVlink based autopilots including APM and PX4/Pixhawk that can be run on Windows, Mac OSX, and Linux.
+* [BBAFlightHub](https://www.bbaflighthub.com) - AI-powered flight log analyzer for ArduPilot (.bin) and PX4 (.ulg) logs. Detects EKF errors, vibration issues, motor faults, and VTOL transition problems with automated diagnostics.
 
 ## Services
 
