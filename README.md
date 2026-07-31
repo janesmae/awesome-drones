@@ -113,6 +113,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 * [AirMap](https://www.airmap.com/) - Aeronautical data & services to unmanned aircraft.
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software.
+* [FPVTune](https://fpvtune.com/) - Neural-network assistant for Betaflight PID tuning and FPV drone blackbox log analysis.
 * [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs.
 * [Zeitiew](https://www.zeitview.com/) - Online marketplace for Drone services. Formerly known as DroneBase.
 
