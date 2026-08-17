@@ -65,6 +65,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [FPV Freerider Recharged](https://fpv-freerider.itch.io/fpv-freerider-recharged) - :dollar: FPV (first person view) and LOS (line of sight) racing simulator.
 * [LiftOff](https://www.immersionrc.com/fpv-products/liftoff-drone-race-simulator/) - :dollar: FPV racing simulator with realistic OSD (on-screen display) experience.
 * [Orqa FPV.SkyDive](https://skydive.orqafpv.com/) - Orqa FPV's racing and freestyle simulator.
+* [Parrot Sphinx](https://developer.parrot.com/docs/sphinx/index.html) - Simulator for Parrot ANAFI with physics and sensor emulation using Unreal Engine and Gazebo.
 * [RotorRush](http://rotorrush.com/) - :dollar: Formerly known as FPV Event. Subscription based simulator.
 * [VelociDrone](https://www.velocidrone.com/) - :dollar: Multiplayer FPV racing simulator.
 
@@ -109,6 +110,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Ardupilot Mission Planner](https://ardupilot.org/planner/index.html) - A full-featured ground station application for the ArduPilot open source autopilot project.
 * [APM Planner 2](https://ardupilot.org/planner2/) - An open-source ground station application for MAVlink based autopilots including APM and PX4/Pixhawk that can be run on Windows, Mac OSX, and Linux.
 * [BBAFlightHub](https://www.bbaflighthub.com) - AI-powered flight log analyzer for ArduPilot (.bin) and PX4 (.ulg) logs. Detects EKF errors, vibration issues, motor faults, and VTOL transition problems with automated diagnostics.
+* [Argus](https://github.com/L-X-Yao/argus) - Open-source web-based ground control station for MAVLink drones. Runs in any browser with WebSerial direct USB support. ArduPilot production-tested, 10 languages.
 
 ## Services
 
