@@ -118,6 +118,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software.
 * [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs.
 * [Zeitiew](https://www.zeitview.com/) - Online marketplace for Drone services. Formerly known as DroneBase.
+* [GrabaRobot](https://www.grabarobot.com/) - Compare agricultural and industrial drones from Chinese manufacturers (DJI, XAG, and more). Includes pricing index and ROI calculator.
 
 ## Hardware and Components
 
