@@ -19,6 +19,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
   - [Firmware for Transmitters](#firmware-for-transmitters)
   - [Firmware for Flight Controllers](#firmware-for-flight-controllers)
   - [Libraries](#libraries)
+  - [Log Analysis](#log-analysis)
   - [Ground Control Stations](#ground-Control-Stations)
 - [Services](#services)
 - [Hardware and Components](#hardware-and-components)
@@ -102,6 +103,10 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Libcyphal](https://github.com/OpenCyphal-Garage/libcyphal) - Portable reference implementation of the Cyphal protocol stack in C++ for embedded systems and Linux. Formerly known as LibUAVCAN.
 * [MAVLink](https://github.com/mavlink/mavlink) - Micro Air Vehicle Message Marshalling Library.
 * [MAVROS](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with a proxy for Ground Control Station.
+
+### Log Analysis
+
+* [SmartTune CLI](https://github.com/raylanlin/smarttune-cli) - Multi-platform flight log analysis & tuning advisor for ArduPilot, Betaflight and PX4. Offline-first, designed for AI agents.
 
 ### Ground Control Stations
 
