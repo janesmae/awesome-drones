@@ -41,7 +41,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ## Courses
 
-* [Flying Car and Autonomous Flight Engineer](https://eu.udacity.com/course/flying-car-nanodegree--nd787) Udacity - Master autonomous flight software engineering skills as you build your career in flying cars and drone robotics.
+* [Flying Car and Autonomous Flight Engineer](https://udacity.com/course/flying-car-nanodegree--nd787) Udacity - Master autonomous flight software engineering skills as you build your career in flying cars and drone robotics.
 * [Robotics: Dynamics and Control](https://www.edx.org/course/robotics-dynamics-control-pennx-robo3x) edX - Learn how to develop dynamic models of robot manipulators, mobile robots, and drones (quadrotors).
 
 ### Udemy
