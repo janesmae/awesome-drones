@@ -124,6 +124,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [AirMap](https://www.airmap.com/) - Aeronautical data & services to unmanned aircraft.
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software.
 * [FPVTune](https://fpvtune.com/) - Neural-network assistant for Betaflight PID tuning and FPV drone blackbox log analysis.
+* [Plexus](https://plexus.company/) - :dollar: Hosted time-series storage with live dashboards and alerts for drone telemetry. Free tier for up to 3 devices; open-source [Python SDK](https://github.com/plexus-oss/plexus-python).
 * [Reboot Hub Drone Data](https://reboot-hub.com/pages/reboot-hub-data) - Public DJI pre-owned price-range and inspection-evidence reference with stated methodology and limitations.
 * [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs.
 * [Zeitiew](https://www.zeitview.com/) - Online marketplace for Drone services. Formerly known as DroneBase.
