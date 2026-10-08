@@ -41,7 +41,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ## Courses
 
-* [Flying Car and Autonomous Flight Engineer](https://eu.udacity.com/course/flying-car-nanodegree--nd787) Udacity - Master autonomous flight software engineering skills as you build your career in flying cars and drone robotics.
+* [Flying Car and Autonomous Flight Engineer](https://udacity.com/course/flying-car-nanodegree--nd787) Udacity - Master autonomous flight software engineering skills as you build your career in flying cars and drone robotics.
 * [Robotics: Dynamics and Control](https://www.edx.org/course/robotics-dynamics-control-pennx-robo3x) edX - Learn how to develop dynamic models of robot manipulators, mobile robots, and drones (quadrotors).
 
 ### Udemy
@@ -116,6 +116,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [MAVProxy](http://ardupilot.github.io/MAVProxy/) - A UAV ground station software package for MAVLink based systems.
 * [Ardupilot Mission Planner](https://ardupilot.org/planner/index.html) - A full-featured ground station application for the ArduPilot open source autopilot project.
 * [APM Planner 2](https://ardupilot.org/planner2/) - An open-source ground station application for MAVlink based autopilots including APM and PX4/Pixhawk that can be run on Windows, Mac OSX, and Linux.
+* [BBAFlightHub](https://www.bbaflighthub.com) - AI-powered flight log analyzer for ArduPilot (.bin) and PX4 (.ulg) logs. Detects EKF errors, vibration issues, motor faults, and VTOL transition problems with automated diagnostics.
 * [Argus](https://github.com/L-X-Yao/argus) - Open-source web-based ground control station for MAVLink drones. Runs in any browser with WebSerial direct USB support. ArduPilot production-tested, 10 languages.
 
 ## Services
@@ -123,6 +124,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [AirMap](https://www.airmap.com/) - Aeronautical data & services to unmanned aircraft.
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software.
 * [FPVTune](https://fpvtune.com/) - Neural-network assistant for Betaflight PID tuning and FPV drone blackbox log analysis.
+* [Reboot Hub Drone Data](https://reboot-hub.com/pages/reboot-hub-data) - Public DJI pre-owned price-range and inspection-evidence reference with stated methodology and limitations.
 * [Reboot Hub Drone Wiki](https://reboot-hub.com/pages/drone-wiki) - Free model, parts, maintenance, and repair reference for DJI aircraft.
 * [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs.
 * [Zeitiew](https://www.zeitview.com/) - Online marketplace for Drone services. Formerly known as DroneBase.
