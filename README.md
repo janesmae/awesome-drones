@@ -43,6 +43,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 * [Flying Car and Autonomous Flight Engineer](https://udacity.com/course/flying-car-nanodegree--nd787) Udacity - Master autonomous flight software engineering skills as you build your career in flying cars and drone robotics.
 * [Robotics: Dynamics and Control](https://www.edx.org/course/robotics-dynamics-control-pennx-robo3x) edX - Learn how to develop dynamic models of robot manipulators, mobile robots, and drones (quadrotors).
+* [Rotate Pilot - Free Part 107 Practice Test](https://rotatepilot.com/drone/practice-test?utm_source=awesome-drones) - Free FAA Part 107 (Unmanned Aircraft General) practice quiz with 10 randomized questions from a 470-question bank, instant grading and explanations, no signup. Optional paid prep available.
 
 ### Udemy
 
