@@ -125,6 +125,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software.
 * [FPVTune](https://fpvtune.com/) - Neural-network assistant for Betaflight PID tuning and FPV drone blackbox log analysis.
 * [Reboot Hub Drone Data](https://reboot-hub.com/pages/reboot-hub-data) - Public DJI pre-owned price-range and inspection-evidence reference with stated methodology and limitations.
+* [RobotTraining.jobs Drone Operator Jobs](https://robottraining.jobs/drone-operator-jobs) - Open drone pilot and test-operator jobs collected daily from employers' own job boards, with posted pay.
 * [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs.
 * [Zeitiew](https://www.zeitview.com/) - Online marketplace for Drone services. Formerly known as DroneBase.
 * [GrabaRobot](https://www.grabarobot.com/) - Compare agricultural and industrial drones from Chinese manufacturers (DJI, XAG, and more). Includes pricing index and ROI calculator.
