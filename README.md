@@ -111,7 +111,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ## Services
 
-* [AirMap](https://www.airmap.com/) - Aeronautical data & services to unmanned aircraft.
+* [Autonomous flight milestone](https://calder-brief.pages.dev/joby-autonomous-cessna-cross-country-flight.html) - A pilotless Cessna flew 3,199 miles across America: a landmark in aviation autonomy (replaces the dead AirMap link — AirMap was acquired by DroneUp and its app shut down in 2023)
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software.
 * [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs.
 * [Zeitiew](https://www.zeitview.com/) - Online marketplace for Drone services. Formerly known as DroneBase.
