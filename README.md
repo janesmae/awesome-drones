@@ -126,6 +126,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [FPVTune](https://fpvtune.com/) - Neural-network assistant for Betaflight PID tuning and FPV drone blackbox log analysis.
 * [Reboot Hub Drone Data](https://reboot-hub.com/pages/reboot-hub-data) - Public DJI pre-owned price-range and inspection-evidence reference with stated methodology and limitations.
 * [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs.
+* [Skyplanr](https://skyplanr.com/) - :dollar: - AI planner for DJI waypoint missions that uses terrain, building and tree heights and exports KMZ for DJI Fly and DJI Pilot 2.
 * [Zeitiew](https://www.zeitview.com/) - Online marketplace for Drone services. Formerly known as DroneBase.
 * [GrabaRobot](https://www.grabarobot.com/) - Compare agricultural and industrial drones from Chinese manufacturers (DJI, XAG, and more). Includes pricing index and ROI calculator.
 
