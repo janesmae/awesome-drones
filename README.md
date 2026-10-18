@@ -106,6 +106,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Log Analysis
 
+* [Easyquadtune](https://easyquadtune.vercel.app) - :dollar: Reads Betaflight blackbox logs and turns the measured FFT noise peaks and step response into a CLI tuning diff. First log free.
 * [SmartTune CLI](https://github.com/raylanlin/smarttune-cli) - Multi-platform flight log analysis & tuning advisor for ArduPilot, Betaflight and PX4. Offline-first, designed for AI agents.
 
 ### Ground Control Stations
