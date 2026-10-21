@@ -98,6 +98,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Libraries
 
+* [Dense-Armor](https://github.com/tatopenn-cell/Dense-Armor) - Online learning on drone telemetry in Python: actuator fault, GPS and IMU consistency, propeller, battery and radio link pipelines, with an ArduPilot and PX4 reader.
 * [DJI Onboard SDK](https://github.com/dji-sdk/Onboard-SDK) - The Onboard SDK allows you to connect to a supported DJI flight controller using a serial port (TTL UART).
 * [GoBot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT).
 * [Libcyphal](https://github.com/OpenCyphal-Garage/libcyphal) - Portable reference implementation of the Cyphal protocol stack in C++ for embedded systems and Linux. Formerly known as LibUAVCAN.
