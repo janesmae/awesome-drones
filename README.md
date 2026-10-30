@@ -123,6 +123,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 * [AirMap](https://www.airmap.com/) - Aeronautical data & services to unmanned aircraft.
 * [DroneDeploy](https://www.dronedeploy.com/) - Drone & UAV Mapping Software.
+* [FixFinder](https://findrtk.com) - Directory of US RTK/NTRIP correction networks by state, free and paid, with a coverage check by address.
 * [FPVTune](https://fpvtune.com/) - Neural-network assistant for Betaflight PID tuning and FPV drone blackbox log analysis.
 * [Reboot Hub Drone Data](https://reboot-hub.com/pages/reboot-hub-data) - Public DJI pre-owned price-range and inspection-evidence reference with stated methodology and limitations.
 * [RotorBuilds](https://rotorbuilds.com/) - FPV Part lists and Build Logs.
