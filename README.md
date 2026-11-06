@@ -99,6 +99,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ### Libraries
 
 * [DJI Onboard SDK](https://github.com/dji-sdk/Onboard-SDK) - The Onboard SDK allows you to connect to a supported DJI flight controller using a serial port (TTL UART).
+* [erdi-lrf-pixhawk-ardupilot](https://github.com/Tommyapi/erdi-lrf-pixhawk-ardupilot) - Wiring, parameters and bench logs for using a UART laser rangefinder as a Pixhawk / ArduPilot laser altimeter.
 * [GoBot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT).
 * [Libcyphal](https://github.com/OpenCyphal-Garage/libcyphal) - Portable reference implementation of the Cyphal protocol stack in C++ for embedded systems and Linux. Formerly known as LibUAVCAN.
 * [MAVLink](https://github.com/mavlink/mavlink) - Micro Air Vehicle Message Marshalling Library.
