@@ -54,6 +54,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 * [ArduPilot Mission Planner](https://github.com/ArduPilot/MissionPlanner) - Mission planner software.
 * [FPVTune](https://github.com/chugzb/betaflight-pid-autotuning) - Betaflight blackbox log analysis and PID tuning guidance.
+* [Mini5Planner](https://www.anleggtech.no/en/mini5planner) - Free desktop app (macOS, Windows) that plans single and double grid mapping missions as WPML KMZ for DJI drones flown with DJI Fly, such as Mini 4/5 Pro, Air 3/3S and Mavic 3/4 Pro, including on the DJI RC 2 where third-party flight apps cannot run. Optional paid Pro adds terrain following and battery splitting.
 * [Paparazzi](http://wiki.paparazziuav.org/wiki/Main_Page) - Software suite for UAVs, including ground control and autopilot.
 * [QGroundControl](http://qgroundcontrol.com/) - Ground Control Station for PX4 and ArduPilot based UAVs.
 * [DroneRoute](https://droneroute.io) - Open-source web-based mission planner for DJI drones withKMZ export. Self-hostable.
