@@ -106,6 +106,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Log Analysis
 
+* [SlewView](https://slewview.com) - Windows viewer for large CSV flight and sensor logs: plot any columns, pan/zoom, measure, filter rows. Free edition; unlimited edition paid.
 * [SmartTune CLI](https://github.com/raylanlin/smarttune-cli) - Multi-platform flight log analysis & tuning advisor for ArduPilot, Betaflight and PX4. Offline-first, designed for AI agents.
 
 ### Ground Control Stations
