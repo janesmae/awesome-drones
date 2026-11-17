@@ -103,6 +103,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 * [Libcyphal](https://github.com/OpenCyphal-Garage/libcyphal) - Portable reference implementation of the Cyphal protocol stack in C++ for embedded systems and Linux. Formerly known as LibUAVCAN.
 * [MAVLink](https://github.com/mavlink/mavlink) - Micro Air Vehicle Message Marshalling Library.
 * [MAVROS](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with a proxy for Ground Control Station.
+* [remoteid](https://github.com/Mattbusel/remoteid) - Rust library to decode and encode drone Remote ID (ASTM F3411, EN 4709-002) from Bluetooth and Wi-Fi frames, no_std.
 
 ### Log Analysis
 
