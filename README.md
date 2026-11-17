@@ -106,6 +106,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Log Analysis
 
+* [mavlink-tlog](https://github.com/Mattbusel/mavlink-tlog) - Rust library to read and write MAVLink .tlog telemetry logs, with recovery from damaged records and per-sender packet loss statistics.
 * [SmartTune CLI](https://github.com/raylanlin/smarttune-cli) - Multi-platform flight log analysis & tuning advisor for ArduPilot, Betaflight and PX4. Offline-first, designed for AI agents.
 
 ### Ground Control Stations
